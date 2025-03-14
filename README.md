@@ -1,7 +1,7 @@
 # Online-Retail-Dataset-UCI-Machine-Learning-Repository--big-data-prediction-smart-retail-analytics
 Here are a few project ideas based on the **Online Retail Dataset (UCI Machine Learning Repository)**:
 
-### **1. Customer Segmentation using RFM Analysis**
+### 🚀**1. Customer Segmentation using RFM Analysis**
    - **Objective:** Identify different customer segments based on **Recency, Frequency, and Monetary (RFM)** values.
    - **Methods:** 
      - Compute RFM scores for each customer.
