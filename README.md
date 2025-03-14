@@ -23,6 +23,7 @@ This project focuses on analyzing the **Online Retail Dataset (UCI Machine Learn
 - **Anomaly Detection** for fraud detection
 - **Customer Churn Prediction**
 
+
 ### **1. Customer Segmentation using RFM Analysis**
    - **Objective:** Identify different customer segments based on **Recency, Frequency, and Monetary (RFM)** values.
    - **Methods:** 
